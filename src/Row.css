@@ -31,3 +31,6 @@
 .row__posterLarge:hover {
   transform: scale(1.09);
 }
+.youtube-video-player {
+  padding: 0 20px;
+}

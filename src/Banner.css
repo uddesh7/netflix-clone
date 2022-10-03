@@ -14,7 +14,7 @@
   padding-bottom: 0.3rem;
 }
 .banner__description {
-  width: 45rem;
+  width: auto;
   line-height: 1.8;
   padding-top: 1rem;
   font-size: 0.8rem;
