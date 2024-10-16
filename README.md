@@ -1,3 +1,5 @@
 # Hosted link for the app:
 
---> https://netflix-clone-5d9b5.web.app/
+--> https://netflix-clone-629ca.web.app/
+
+Note: You might need to connect the VPN, the TMDB Api is restricted in some regions.
