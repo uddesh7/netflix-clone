@@ -4,4 +4,6 @@
 
 Note: You might need to connect the VPN, the TMDB Api is restricted in some regions.
 
+Web app Screenshot:
+
 ![App screenshot](/public/appScreen.png)
