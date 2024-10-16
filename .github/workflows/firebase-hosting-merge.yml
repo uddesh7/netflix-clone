@@ -17,4 +17,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_NETFLIX_CLONE_5D9B5 }}'
           channelId: live
-          projectId: netflix-clone-5d9b5
+          projectId: netflix-clone-629ca
